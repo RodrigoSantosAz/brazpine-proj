@@ -1,0 +1,209 @@
+.container {
+  flex-direction: row;
+  height: 88px;
+  margin-left: 26px;
+
+}
+
+.preset_text {
+  margin-left: 20px;
+  align-self: center;
+  font-family: Tajawal;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+
+}
+
+.inputBox {
+  border-top: 1px solid #D9DCDE;
+  border-right: 1px solid #D9DCDE;
+  border-bottom: 1px solid #D9DCDE;
+  width: 63px;
+
+}
+
+.input {
+
+  align-self: center;
+  margin-left: 26px;
+  height: 17px;
+  width: 17px;
+  background: #FFFFFF;
+  border: 1px solid #BBBBBB;
+  box-shadow: -2px 3px 6px 1px rgba(44, 39, 56, 0.15);
+  border-radius: 4px;
+
+}
+
+.nome_conexao {
+  border-top: 1px solid #D9DCDE;
+  border-right: 1px solid #D9DCDE;
+  border-bottom: 1px solid #D9DCDE;
+  border-left: 1px solid #D9DCDE;
+  width: 226px;
+
+}
+
+.client {
+  border-top: 1px solid #D9DCDE;
+  border-right: 1px solid #D9DCDE;
+  border-bottom: 1px solid #D9DCDE;
+  border-left: 1px solid #D9DCDE;
+  width: 166px;
+}
+
+.host {
+  border-top: 1px solid #D9DCDE;
+  border-right: 1px solid #D9DCDE;
+  border-bottom: 1px solid #D9DCDE;
+  border-left: 1px solid #D9DCDE;
+  width: 134px;
+}
+
+.port {
+  border-top: 1px solid #D9DCDE;
+  border-right: 1px solid #D9DCDE;
+  border-bottom: 1px solid #D9DCDE;
+  border-left: 1px solid #D9DCDE;
+  width: 138px;
+}
+
+.user {
+  border-top: 1px solid #D9DCDE;
+  border-right: 1px solid #D9DCDE;
+  border-bottom: 1px solid #D9DCDE;
+  border-left: 1px solid #D9DCDE;
+  width: 136px;
+}
+
+.password {
+  border-top: 1px solid #D9DCDE;
+  border-right: 1px solid #D9DCDE;
+  border-bottom: 1px solid #D9DCDE;
+  border-left: 1px solid #D9DCDE;
+  width: 184px;
+}
+
+.database {
+  border-top: 1px solid #D9DCDE;
+  border-right: 1px solid #D9DCDE;
+  border-bottom: 1px solid #D9DCDE;
+  border-left: 1px solid #D9DCDE;
+  width: 166px;
+}
+
+.poolMin {
+  border-top: 1px solid #D9DCDE;
+  border-right: 1px solid #D9DCDE;
+  border-bottom: 1px solid #D9DCDE;
+  border-left: 1px solid #D9DCDE;
+  width: 164px;
+}
+
+.poolMax {
+  border-top: 1px solid #D9DCDE;
+  border-right: 1px solid #D9DCDE;
+  border-bottom: 1px solid #D9DCDE;
+  border-left: 1px solid #D9DCDE;
+  width: 164px;
+}
+
+.filename {
+  border-top: 1px solid #D9DCDE;
+  border-right: 1px solid #D9DCDE;
+  border-bottom: 1px solid #D9DCDE;
+  border-left: 1px solid #D9DCDE;
+  width: 164px;
+}
+
+.connectionString {
+  border-top: 1px solid #D9DCDE;
+  border-right: 1px solid #D9DCDE;
+  border-bottom: 1px solid #D9DCDE;
+  border-left: 1px solid #D9DCDE;
+  width: 233px;
+
+}
+
+.isActive {
+  border-top: 1px solid #D9DCDE;
+  border-right: 1px solid #D9DCDE;
+  border-bottom: 1px solid #D9DCDE;
+  border-left: 1px solid #D9DCDE;
+  width: 141px;
+}
+
+.toggle {
+  align-self: center;
+  margin-left: 45px;
+}
+
+.endMenu {
+  border-top: 1px solid #D9DCDE;
+  border-right: 1px solid #D9DCDE;
+  border-bottom: 1px solid #D9DCDE;
+  border-left: 1px solid #D9DCDE;
+  width: 20px
+}
+
+.iconMenu {
+  align-self: center;
+  height: 35px;
+  width: 35px;
+  margin-left: -8px;
+  color: #6C6C6C;
+}
+
+.miniMenu {
+
+
+  background: #FFFFFF;
+  border: 3px solid #229AF1;
+  box-shadow: -6px 6px 8px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 6px;
+  flex-direction: column;
+  margin-left: -84px;
+  z-index: 1;
+
+
+
+}
+
+
+.clonarbt {
+  align-self: center;
+  border-bottom: 1px solid gray;}
+  
+
+.excluirbt {
+  align-self: center;}
+
+
+
+.textClonar {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 17px;
+  letter-spacing: 0.2px;
+  color: #3B505A;
+  margin: 5px;
+
+
+}
+
+.textExcluir {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 17px;
+  letter-spacing: 0.2px;
+  color: #3B505A;
+  margin: 5px;
+
+
+}

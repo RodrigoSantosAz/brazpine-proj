@@ -1,0 +1,36 @@
+.Sidebar{
+  margin-top: 111px;
+  height: 976px;
+  width: 122px;
+}
+
+ul {
+  list-style: none;
+}
+
+
+.SidebarList{
+  height: auto;
+  width: auto;
+}
+.void{
+  height: 10px;
+}
+.SidebarList .row{
+
+  background-color:#72378E;
+  height: 122px;
+  width: 122px;
+  list-style-type: none;
+  color: white;
+  font-weight: 700;
+  padding-left: 37px;
+  padding-top: 36px;
+}
+.Sidebar .row:hover{
+  background-color: #229AF1;
+  cursor: pointer;
+  
+  
+}
+

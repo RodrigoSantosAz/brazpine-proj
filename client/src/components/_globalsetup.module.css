@@ -1,0 +1,25 @@
+.setup,
+.setup * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background: none;
+  border: none;
+  flex-shrink: 0;
+  text-decoration: none;
+  min-width: 0;
+  overflow: visible;
+}
+
+.setup,
+.setup :not(span, a, ul, ol, li, p) {
+  display: flex;
+}
+
+.setup img {
+  object-fit: contain;
+}
+
+.setup svg {
+  overflow: visible;
+}

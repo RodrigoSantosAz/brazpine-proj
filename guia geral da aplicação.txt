@@ -1,0 +1,10 @@
+Rodando front na porta 3000
+Rodando back na porta 3001
+ambos no http://localhost
+
+cmd > yarn ( no /client )
+cmd > npx install ( no /server )
+
+qualquer situação que precisar falar comigo
+
+51 997972838

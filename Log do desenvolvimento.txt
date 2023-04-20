@@ -1,0 +1,45 @@
+Segue o log do desenvolvimento ( descrepancia do dia 1 para o dia 2 foi um imprevisto que me deixou impossibilitado de acessar meu PC por 5 dias )
+
+6/4 - Planejamento do projeto
+
+• Draw inicial, mock do Login page ( 4h - FRONT )
+
+
+12/4 - Pagina de Login - ( 3h:30 - FRONT )
+
+• Front End geral 
+
+13/4 - Finalização Login + Começo Cadastro ( 3h/30m - FRONT/BACK )
+
+• Planejamento de DIVS, Design dos componentes 
+
+14/4 Desenvolvimento dos Componentes ( 4h - FRONT/BACK )
+
+• TopBAR
+• Side Menu
+
+15/4 Finalização Topbar + Side bar - planejamento do Cadastro ( 7h )
+
+• Divs basicas - configuração de posicionamento
+• Estrutura dos modais, Criação do banco
+
+16/4 DIV superior cadastro ( 6h FRONT 2h BACK )
+
+• Pesquisa / Selecionar Cliente / front End dos botoes e link para seus devidos modais
+• Modais
+• link do banco com os modais
+• Finalizado o User teste que foi pedido no pdf
+
+17/4 DIV inferiro - Exibição ( 2h BACK 2h FRONT )
+
+• Crianção do Componente Table e Modais
+• Criação da estrutura base do BackEnd / endpoints 
+• Link dos modais com o back
+
+18/4 Polimento geral / Finalização de funcinalidades
+
+• Filtros + Dropdowns ( 3h )
+• Otimização gerais ( limpando codigo, otimizando alguns path dos componentes para melhor escalamento )
+
+
+19/4 Toques finais - Polimento Geral ( 4h ) 
